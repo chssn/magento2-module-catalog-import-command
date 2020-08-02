@@ -1,5 +1,5 @@
 {
-  "name": "chssn/magento2-module-catalog-import-command",
+  "name": "cedricblondeau/magento2-module-catalog-import-command",
   "description": "Import catalog via console command. Forked from CedricBlondeau",
   "type": "magento2-module",
   "version": "1.1.3",
