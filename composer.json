@@ -1,8 +1,8 @@
 {
-  "name": "cedricblondeau/magento2-module-catalog-import-command",
-  "description": "Import catalog via console command",
+  "name": "chssn/magento2-module-catalog-import-command",
+  "description": "Import catalog via console command. Forked from CedricBlondeau",
   "type": "magento2-module",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "license": "MIT",
   "require": {
     "magento/module-import-export": "100.*"
